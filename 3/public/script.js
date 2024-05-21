@@ -1,4 +1,4 @@
-const serverUrl = 'http://localhost:8080';
+const serverUrl = 'https://third-test-amopoint-fbd84a20b9c4.herokuapp.com';
 
 function sendPostRequest(url) {
     let xhr = new XMLHttpRequest();
