@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    margin: 20px;
+}
+
+.status {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.success {
+    background-color: green;
+}
+
+.error {
+    background-color: red;
+}
+
+h2 {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ihar-karpliuk/amo-point-third-test",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "IharKarpliuk\\AmoPointThirdTest\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Ihar Karpliuk",
+      "email": "karprog01@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^8.2",
+    "ext-curl": "*",
+    "whichbrowser/parser": "^2.1",
+    "ext-pdo": "*",
+    "ext-pdo_sqlite": "*"
+  }
+}
